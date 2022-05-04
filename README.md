@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aspeckt112
-- 👀 I’m interested in: Xamarin; MAUI; .NET; MonoGame && SonicPI
+- 👀 I’m interested in: Xamarin; MAUI; .NET; MonoGame; Maths; Python && SonicPI
 - 🌱 I’m currently learning: As much as I can
 - 💞️ I’m looking to collaborate on: Awesome Xamarin libraries that make everyone's work easier
 - 📫 How to reach me: russell@fastmail.co.uk
